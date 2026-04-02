@@ -1,0 +1,7 @@
+# Dependencias del proyecto
+pandas
+numpy
+streamlit
+jupyter
+matplotlib
+holidays
